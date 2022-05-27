@@ -2,4 +2,4 @@
 
 Course from DIO (Digital Inovation One)
 
-Language: PT-BR
+Course Language: PT-BR
