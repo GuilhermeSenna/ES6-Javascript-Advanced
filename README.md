@@ -1,5 +1,5 @@
 # ES6-Javascript-Advanced
 
-Course from DIO (Digital Inovation One)
+Course from DIO (Digital Innovation One)
 
-Language: PT-BR
+Course Language: PT-BR
