@@ -1,4 +1,3 @@
-EventEmitter
 
 const EventEmitter = require('event');
 
@@ -13,8 +12,8 @@ const users = new Users();
 // const emitter = new EventEmitter();
 
 users.on('User logged', data => {
-    console.log(data); 
+    console.log(data);
 });
 
-Users.userLogged({user: 'Guilherme Senna'});
-Users.userLogged({user: 'Bruno Henique'});
+Users.userLogged({ user: 'Guilherme Senna' });
+Users.userLogged({ user: 'Bruno Henique' });

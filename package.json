@@ -1,0 +1,26 @@
+{
+  "name": "es6-javascript-advanced",
+  "version": "1.0.0",
+  "description": "Course from DIO (Digital Innovation One)",
+  "main": "10_eventEmitter.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeSenna/ES6-Javascript-Advanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeSenna/ES6-Javascript-Advanced/issues"
+  },
+  "homepage": "https://github.com/GuilhermeSenna/ES6-Javascript-Advanced#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
