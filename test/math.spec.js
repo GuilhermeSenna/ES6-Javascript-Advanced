@@ -1,6 +1,6 @@
 // mocha
 const assert = require('assert');
-const Math = require('../11_mocha_math.js');
+const Math = require('../11_test_math.js');
 
 // chai
 const expect = require('chai').expect;
